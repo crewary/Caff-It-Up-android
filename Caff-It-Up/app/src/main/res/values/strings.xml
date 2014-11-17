@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caff-It-Up</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="weightLabelText">Weight (kg) : </string>
+    <string name="heightLabelText">Height (cm) : </string>
+    <string name="ageLabelText">Age</string>
+    <string name="ageCheck4Text">13+</string>
+    <string name="ageCheck3Text">10-12</string>
+    <string name="ageCheck2Text">7-9</string>
+    <string name="ageCheck1Text">4-6</string>
+    <string name="birthControlCheckText">Birth Control</string>
+    <string name="pregnantCheckText">Pregnant</string>
+    <string name="smokeCheckText">Smoke</string>
+    <string name="intakeLabelText">Caffeine Intake (mg) : </string>
+    <string name="intakeTimeLabelText">Time Since Intake (hours) : </string>
+    <string name="calculateButtonText">Calculate</string>
+    <string name="ageBoxText">Age</string>
+
+</resources>
